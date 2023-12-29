@@ -26,3 +26,9 @@ This project was developed for a distributed systems class and involves three en
 
 - C
 - Linux Sockets
+- GTK (But not included here)
+
+## Demo
+
+
+This video serves as a demonstration, featuring also a minimal user interface (with gtk) that will be included and uploaded in the future.: https://streamable.com/usyq67
